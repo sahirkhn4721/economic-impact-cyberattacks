@@ -4,7 +4,7 @@
 How do reported data-breach costs change over time, and what do they imply for illustrative cybersecurity investment decisions?
 
 ## Data
-Four published IBM/Ponemon annual global average data breach cost estimates (2021–2024), USD millions. These are published cross-sectional annual estimates, **not** a company-level longitudinal panel or representative estimates of all cyberattacks. Source reports: https://www.ibm.com/reports/data-breach (navigate to archived annual editions). Verify archival report figures before publishing.
+Four published IBM/Ponemon annual global average data breach cost estimates (2021–2024), USD million They are published annual cross-sectional estimates, not longitudinal panels at the firm level or representative estimates of all cyberattacks. IBM Cost of a Data Breach Studies (2021-2024) Annual global average breach-cost estimates are based on data released by IBM and related releases.
 
 ## Reproduction
 Python 3 standard library only: `python analysis.py`. Reproduces table growth rates, 2021–2024 change, and illustrative expected-loss scenarios. The probability inputs are **hypothetical**, not empirical estimates.
