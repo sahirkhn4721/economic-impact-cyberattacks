@@ -13,4 +13,4 @@ Python 3 standard library only: `python analysis.py`. Reproduces table growth ra
 Small sample, report methodology/sampling changes, no causal inference, no estimated attack frequency or prevention efficacy. Results cannot establish return on security investments.
 
 ## Publication
-Add your own GitHub repository URL and SSRN abstract/paper link only after uploading; these cannot be created by the script.
+This repository contains the data and reproducible analysis supporting the BFIN515 research paper, The Economic Impact of Cyberattacks on Businesses. The SSRN paper link will be added following publication.
